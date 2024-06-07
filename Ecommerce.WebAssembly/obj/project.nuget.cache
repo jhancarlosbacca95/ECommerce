@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "czPU8/Wm4SLMxPNVE8vAM+hHuFO9F2UNw8jvDZxIxNCEpY33TQrzX643M13sQ2Isi+oG8SnVcjxfkOJQty0eZQ==",
+  "dgSpecHash": "NoL5kOVGAGjrvV0kS/lNn6kg3lYL6L7KwR8s3B4VUqsG8Lk7M4W++7h2ydjMgnqzeRLuS/gF2we26dHhVDTGEg==",
   "success": true,
-  "projectFilePath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+  "projectFilePath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kki19\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\kki19\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",

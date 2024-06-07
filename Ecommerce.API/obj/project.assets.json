@@ -3261,11 +3261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectUniqueName": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
       "projectName": "Ecommerce.API",
-      "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
       "packagesPath": "C:\\Users\\kki19\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.API\\obj\\",
+      "outputPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kki19\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3282,8 +3282,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
-              "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
+            "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
+              "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
             }
           }
         }

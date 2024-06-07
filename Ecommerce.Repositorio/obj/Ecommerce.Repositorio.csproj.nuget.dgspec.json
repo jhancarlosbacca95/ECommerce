@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {}
+    "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {}
   },
   "projects": {
-    "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
+    "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
+        "projectUniqueName": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
         "projectName": "Ecommerce.Modelo",
-        "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
+        "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
         "packagesPath": "C:\\Users\\kki19\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\obj\\",
+        "outputPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kki19\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
+    "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
+        "projectUniqueName": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
         "projectName": "Ecommerce.Repositorio",
-        "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
+        "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
         "packagesPath": "C:\\Users\\kki19\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\obj\\",
+        "outputPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kki19\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
-                "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj"
+              "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
+                "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj"
               }
             }
           }

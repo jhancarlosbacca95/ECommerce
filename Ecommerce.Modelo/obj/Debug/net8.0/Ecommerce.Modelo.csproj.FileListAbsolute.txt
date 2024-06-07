@@ -12,3 +12,17 @@ C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\refint\Ecomme
 C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.pdb
 C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.genruntimeconfig.cache
 C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\ref\Ecommerce.Modelo.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\bin\Debug\net8.0\Ecommerce.Modelo.deps.json
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\bin\Debug\net8.0\Ecommerce.Modelo.runtimeconfig.json
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\bin\Debug\net8.0\Ecommerce.Modelo.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\bin\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.csproj.AssemblyReference.cache
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.AssemblyInfoInputs.cache
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.AssemblyInfo.cs
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.csproj.CoreCompileInputs.cache
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\refint\Ecommerce.Modelo.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\Ecommerce.Modelo.genruntimeconfig.cache
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.Modelo\obj\Debug\net8.0\ref\Ecommerce.Modelo.dll

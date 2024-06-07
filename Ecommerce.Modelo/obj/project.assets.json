@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
+      "projectUniqueName": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
       "projectName": "Ecommerce.Modelo",
-      "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
+      "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj",
       "packagesPath": "C:\\Users\\kki19\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\obj\\",
+      "outputPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kki19\\AppData\\Roaming\\NuGet\\NuGet.Config",

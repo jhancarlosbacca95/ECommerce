@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+      "projectUniqueName": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
       "projectName": "Ecommerce.DTO",
-      "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+      "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
       "packagesPath": "C:\\Users\\kki19\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.DTO\\obj\\",
+      "outputPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kki19\\AppData\\Roaming\\NuGet\\NuGet.Config",

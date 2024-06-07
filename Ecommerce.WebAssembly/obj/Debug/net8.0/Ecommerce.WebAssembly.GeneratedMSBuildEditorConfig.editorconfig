@@ -13,27 +13,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Ecommerce.WebAssembly
 build_property.RootNamespace = Ecommerce.WebAssembly
-build_property.ProjectDir = C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.WebAssembly\
+build_property.ProjectDir = C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.WebAssembly
+build_property.MSBuildProjectDirectory = C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/C\#/ProyectoEcomerce/Ecommerce/Ecommerce.WebAssembly/App.razor]
+[C:/C\#/ProyectoEcommerce/Ecommerce/Ecommerce.WebAssembly/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/ProyectoEcomerce/Ecommerce/Ecommerce.WebAssembly/Layout/MainLayout.razor]
+[C:/C\#/ProyectoEcommerce/Ecommerce/Ecommerce.WebAssembly/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/ProyectoEcomerce/Ecommerce/Ecommerce.WebAssembly/Pages/Home.razor]
+[C:/C\#/ProyectoEcommerce/Ecommerce/Ecommerce.WebAssembly/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/ProyectoEcomerce/Ecommerce/Ecommerce.WebAssembly/_Imports.razor]
+[C:/C\#/ProyectoEcommerce/Ecommerce/Ecommerce.WebAssembly/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

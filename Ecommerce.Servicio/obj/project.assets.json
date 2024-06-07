@@ -2826,11 +2826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+      "projectUniqueName": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
       "projectName": "Ecommerce.Servicio",
-      "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+      "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
       "packagesPath": "C:\\Users\\kki19\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Servicio\\obj\\",
+      "outputPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kki19\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2847,17 +2847,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-              "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+            "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+              "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
             },
-            "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
-              "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj"
+            "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
+              "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj"
             },
-            "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
-              "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
+            "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
+              "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
             },
-            "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
-              "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
+            "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
+              "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
             }
           }
         }

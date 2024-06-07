@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\",
+  "WorkspaceRootPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|c:\\c#\\proyectoecomerce\\ecommerce\\ecommerce.repositorio\\contrato\\igenericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|solutionrelative:ecommerce.repositorio\\contrato\\igenericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.repositorio\\implementacion\\genericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|solutionrelative:ecommerce.repositorio\\implementacion\\genericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|c:\\c#\\proyectoecomerce\\ecommerce\\ecommerce.repositorio\\ecommerce.repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|solutionrelative:ecommerce.repositorio\\ecommerce.repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.repositorio\\implementacion\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|solutionrelative:ecommerce.repositorio\\implementacion\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.repositorio\\contrato\\iventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|solutionrelative:ecommerce.repositorio\\contrato\\iventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.repositorio\\contrato\\igenericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A833544-E9FE-40A3-AB54-A2F343755F60}|Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj|solutionrelative:ecommerce.repositorio\\contrato\\igenericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IGenericoRepositorio.cs",
-              "DocumentMoniker": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
-              "ToolTip": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
-              "RelativeToolTip": "Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Ecommerce.API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T20:49:01.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ecommerce.Repositorio",
-              "DocumentMoniker": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
-              "RelativeDocumentMoniker": "Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
-              "ToolTip": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
-              "RelativeToolTip": "Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-07T20:48:02.013Z",
+              "WhenOpened": "2024-06-07T22:35:08.649Z",
               "EditorCaption": ""
             },
             {
@@ -61,6 +60,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaRepositorio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Implementacion\\VentaRepositorio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Repositorio\\Implementacion\\VentaRepositorio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Implementacion\\VentaRepositorio.cs",
+              "RelativeToolTip": "Ecommerce.Repositorio\\Implementacion\\VentaRepositorio.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T22:07:59.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericoRepositorio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Implementacion\\GenericoRepositorio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Repositorio\\Implementacion\\GenericoRepositorio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Implementacion\\GenericoRepositorio.cs",
+              "RelativeToolTip": "Ecommerce.Repositorio\\Implementacion\\GenericoRepositorio.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:43:19.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVentaRepositorio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Contrato\\IVentaRepositorio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Repositorio\\Contrato\\IVentaRepositorio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Contrato\\IVentaRepositorio.cs",
+              "RelativeToolTip": "Ecommerce.Repositorio\\Contrato\\IVentaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:40:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericoRepositorio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
+              "RelativeToolTip": "Ecommerce.Repositorio\\Contrato\\IGenericoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:49:01.403Z",
+              "EditorCaption": ""
             }
           ]
         }

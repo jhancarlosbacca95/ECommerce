@@ -2088,11 +2088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+      "projectUniqueName": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
       "projectName": "Ecommerce.WebAssembly",
-      "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+      "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
       "packagesPath": "C:\\Users\\kki19\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.WebAssembly\\obj\\",
+      "outputPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.WebAssembly\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kki19\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2109,8 +2109,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-              "projectPath": "C:\\C#\\ProyectoEcomerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+            "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+              "projectPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
             }
           }
         }

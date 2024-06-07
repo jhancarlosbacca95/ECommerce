@@ -5,3 +5,4 @@ obj/
 # Ignore other temporary files
 *.log
 *.tmp
+*.vsidx

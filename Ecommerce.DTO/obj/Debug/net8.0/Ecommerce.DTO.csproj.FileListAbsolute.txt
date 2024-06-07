@@ -9,3 +9,14 @@ C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dl
 C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
 C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
 C:\C#\ProyectoEcomerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.deps.json
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\bin\Debug\net8.0\Ecommerce.DTO.pdb
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
