@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8jmfzCrOosIoxzW8RrlNlKRgfei2JRDIvXRa0g7flN1t6BNmh/xOBkGTdk51yIlh6POIxoXDYz5uI6J0Li1EGw==",
+  "dgSpecHash": "omcD4cB6HIJVR2mgesYGrb5Q/JYLxPcC1UNxFJcolc0j8QJ9SuScfwtOKw9c+hs9ADM0GgfqD6dza0O1wo3yhw==",
   "success": true,
   "projectFilePath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kki19\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\kki19\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\kki19\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kki19\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\kki19\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
