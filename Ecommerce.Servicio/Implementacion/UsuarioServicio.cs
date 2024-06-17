@@ -136,7 +136,7 @@ namespace Ecommerce.Servicio.Implementacion
             try
             {
                 var consulta = _modeloRepositorio.Consultar(p=>p.IdUsuario == id);
-                var fromDbModelo = consulta.FirstOrDefaultAsync();
+                var fromDbModelo = await consulta.FirstOrDefaultAsync();
 
                 if (fromDbModelo!=null)
                     return _mapper.Map<UsuarioDTO>(fromDbModelo);
