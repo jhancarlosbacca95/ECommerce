@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.servicio\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5088D6-3B36-4318-8141-13DB7FB790CE}|Ecommerce.DTO\\Ecommerce.DTO.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5088D6-3B36-4318-8141-13DB7FB790CE}|Ecommerce.DTO\\Ecommerce.DTO.csproj|solutionrelative:ecommerce.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5088D6-3B36-4318-8141-13DB7FB790CE}|Ecommerce.DTO\\Ecommerce.DTO.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5088D6-3B36-4318-8141-13DB7FB790CE}|Ecommerce.DTO\\Ecommerce.DTO.csproj|solutionrelative:ecommerce.dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5088D6-3B36-4318-8141-13DB7FB790CE}|Ecommerce.DTO\\Ecommerce.DTO.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5088D6-3B36-4318-8141-13DB7FB790CE}|Ecommerce.DTO\\Ecommerce.DTO.csproj|solutionrelative:ecommerce.dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.servicio\\implementacion\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\dashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.servicio\\contrato\\idashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\contrato\\idashboardservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.servicio\\implementacion\\ventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\implementacion\\ventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.servicio\\contrato\\iventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\contrato\\iventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.servicio\\contrato\\icategoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EC7727-DC1E-44F6-B6E6-3198703842EA}|Ecommerce.Servicio\\Ecommerce.Servicio.csproj|solutionrelative:ecommerce.servicio\\contrato\\icategoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +67,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleVentaDTO.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\DetalleVentaDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DTO\\DetalleVentaDTO.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\DetalleVentaDTO.cs",
+              "RelativeToolTip": "Ecommerce.DTO\\DetalleVentaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:26:35.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "Ecommerce.DTO\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:22:32.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DTO\\VentaDTO.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.DTO\\VentaDTO.cs",
+              "RelativeToolTip": "Ecommerce.DTO\\VentaDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:21:12.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Ecommerce.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:14:33.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardServicio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\DashboardServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\DashboardServicio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\DashboardServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\DashboardServicio.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:59:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDashboardServicio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Contrato\\IDashboardServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Contrato\\IDashboardServicio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Contrato\\IDashboardServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Contrato\\IDashboardServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:58:55.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentaServicio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\VentaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\VentaServicio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\VentaServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\VentaServicio.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:41:13.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVentaServicio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Contrato\\IVentaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Contrato\\IVentaServicio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Contrato\\IVentaServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Contrato\\IVentaServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:36:58.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Implementacion\\UsuarioServicio.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwFMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:47:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoriaServicio.cs",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Contrato\\ICategoriaServicio.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Servicio\\Contrato\\ICategoriaServicio.cs",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Servicio\\Contrato\\ICategoriaServicio.cs",
+              "RelativeToolTip": "Ecommerce.Servicio\\Contrato\\ICategoriaServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:08:27.51Z",
+              "EditorCaption": ""
             }
           ]
         }

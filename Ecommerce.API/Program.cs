@@ -2,6 +2,11 @@ using Ecommerce.Repositorio.DBContext;
 using Microsoft.EntityFrameworkCore;
 using Ecommerce.Repositorio.Contrato;
 using Ecommerce.Repositorio.Implementacion;
+
+using Ecommerce.Servicio.Contrato;
+using Ecommerce.Servicio.Implementacion;
+
+using Ecommerce.Utilidades;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -17,6 +22,14 @@ builder.Services.AddDbContext<DbecommerceContext>(options => {
 
 builder.Services.AddTransient(typeof(IGenericoRepositorio<>),typeof(GenericoRepositorio<>));
 builder.Services.AddScoped<IVentaRepositorio, VentaRepositorio>();
+
+builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
+builder.Services.AddScoped<ICategoriaServicio, CategoriaServicio>();
+builder.Services.AddScoped<IProductoServicio, ProductoServicio>();
+builder.Services.AddScoped<IVentaServicio, VentaServicio>();
+builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 
 var app = builder.Build();

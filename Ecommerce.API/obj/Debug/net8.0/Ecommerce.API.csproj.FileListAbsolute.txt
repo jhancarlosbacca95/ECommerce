@@ -158,3 +158,5 @@ C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.API\obj\Debug\net8.0\refint\Ecommerc
 C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.API\obj\Debug\net8.0\Ecommerce.API.pdb
 C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.API\obj\Debug\net8.0\Ecommerce.API.genruntimeconfig.cache
 C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.API\obj\Debug\net8.0\ref\Ecommerce.API.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.API\bin\Debug\net8.0\AutoMapper.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
