@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46089F5-AB6B-4910-9209-FD17AEF1764F}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,71 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Program.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
-              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Program.cs",
-              "RelativeToolTip": "Ecommerce.API\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:51:29.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:39:48.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VentaController.cs",
-              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\VentaController.cs",
-              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\VentaController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:31:24.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAGEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:01:30.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T16:36:30.36Z",
-              "EditorCaption": ""
             }
           ]
         }
