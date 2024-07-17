@@ -2072,3 +2072,13 @@ C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compres
 C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\fveyapdap7.gz
 C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\Ecommerc.6AB598FC.Up2Date
 C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\ref\Ecommerce.WebAssembly.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm.gz
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm.gz
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazored.LocalStorage.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\bin\Debug\net8.0\Blazored.Toast.dll
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\webcil\Blazored.Toast.wasm
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\0ev1eh7kyw.gz
+C:\C#\ProyectoEcommerce\Ecommerce\Ecommerce.WebAssembly\obj\Debug\net8.0\compressed\zymwtxlx2o.gz

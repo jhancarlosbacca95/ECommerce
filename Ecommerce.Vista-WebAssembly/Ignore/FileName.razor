@@ -1,0 +1,36 @@
+
+
+
+
+
+
+<div class="row justify-content-center mt-3">
+    <!-- Título centrado -->
+    <p class="col-sm-12 col-md-8 col-xl-10 h4 mt-2">@titulo</p>
+</div>
+
+<div class="row justify-content-center mt-3">
+    <div class="col-sm-12 col-md-8 col-xl-10">
+
+        <!-- Formulario de edición con validación -->
+        <EditForm Model="modelo" OnValidSubmit="GuardarCambios">
+            <!-- Validador para las anotaciones de datos del modelo -->
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+
+            <!-- Grupo de entrada para el nombre -->
+            <div class="input-group">
+                <span class="input-group-text bg-light">Nombre</span>
+                <input type="text" class="form-control" @bind-value="modelo.Nombre">
+            </div>
+            <!-- Mensaje de validación para el campo nombre -->
+            <ValidationMessage For="@(()=>modelo.Nombre)" />
+
+            <!-- Botones de acción -->
+            <div class="mt-3">
+                <button type="submit" class="btn btn-primary" style="width:130px">@boton</button>
+                <a href="/categorias" class="btn btn-secondary" style="width:130px">Volver</a>
+            </div>
+        </EditForm>
+
+    </div>
+</div>

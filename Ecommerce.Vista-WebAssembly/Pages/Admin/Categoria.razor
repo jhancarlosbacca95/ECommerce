@@ -1,0 +1,108 @@
+﻿@page "/categoria"
+@page "/categoria/{Id:int}"
+
+@inject ICategoriaServicio categoriaServicio
+@inject IToastService toastService
+@inject SweetAlertService Swal
+@inject NavigationManager _navServicio
+
+
+<div class="row justify-content-center mt-3">
+    <!-- Titulo centrado -->
+    <p class="col-sm-12 col-md-8 col-xl-10 h4 mt-2">@Titulo</p>
+</div> 
+
+<div class="row justify-content-center mt-3">
+    <div class="col-sm-12 col-md-8 col-xl-10">
+        <!--formulario de edicion con validacion-->
+        <EditForm Model="modelo" OnValidSubmit="GuardarCambios">
+            <!-- validador para las anotaciones de datos del modelo-->
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+
+            <!-- campo de entrada para el nombre-->
+            <div class="input-group">
+                <span class="input-group-text bg-light">Nombre</span>
+                <input type="text" class="form-control" @bind-value="modelo.Nombre">
+            </div>
+            <!-- mensaje de validacion del nombre-->
+            <ValidationMessage For="@(()=>modelo.Nombre)"/>
+
+            <!--Botones de accion-->
+            <div class="mt-3">
+                <button type="submit" class="btn btn-primary" style="width:130px">@boton</button>
+                <a href="/categorias" class="btn btn-secondary" style="width:130px">Volver</a>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    private string Titulo = "Nueva categoria";
+    private string boton = "Crear";
+    private CategoriaDTO modelo = new CategoriaDTO();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (Id != 0)
+        {
+            Titulo = "Actualizar categoria";
+            boton = "Actualizar";
+
+            var response = await categoriaServicio.Obtener(Id);
+            if (response.EsCorrecto)
+            {
+                modelo = (CategoriaDTO)response.Resultado!;
+            }
+            else
+            {
+                toastService.ShowWarning(response.Mensaje!);
+            }
+
+        }
+    }
+
+    private async Task GuardarCambios()
+    {
+        bool respuesta = true;
+        string mensaje = string.Empty;
+
+
+        if (Id != 0)
+        {
+            var response = await categoriaServicio.Editar(modelo);
+            if (response.EsCorrecto)
+            {
+                mensaje = "Categoria modificada";
+            }
+            else
+            {
+                respuesta = false;
+                mensaje = "No se pudo modificar";
+            }
+        }
+        else
+        {
+            var response = await categoriaServicio.Crear(modelo);
+            if (response.EsCorrecto)
+            {
+                mensaje = "Categoria creada";
+            }
+            else
+            {
+                respuesta = false;
+                mensaje = "No se pudo crear";
+            }
+        }
+        if (respuesta)
+        {
+            toastService.ShowSuccess(mensaje);
+            _navServicio.NavigateTo("/categorias");
+        }
+        else
+        {
+            toastService.ShowWarning(mensaje);
+        }
+    }
+}

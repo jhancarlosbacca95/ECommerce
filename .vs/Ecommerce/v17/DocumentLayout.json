@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF39F8B-1A27-4F09-A12B-348C122473A7}|Ecommerce.Vista-WebAssembly\\Ecommerce.Vista-WebAssembly.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.vista-webassembly\\pages\\admin\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF39F8B-1A27-4F09-A12B-348C122473A7}|Ecommerce.Vista-WebAssembly\\Ecommerce.Vista-WebAssembly.csproj|solutionrelative:ecommerce.vista-webassembly\\pages\\admin\\categorias.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF39F8B-1A27-4F09-A12B-348C122473A7}|Ecommerce.Vista-WebAssembly\\Ecommerce.Vista-WebAssembly.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.vista-webassembly\\pages\\admin\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF39F8B-1A27-4F09-A12B-348C122473A7}|Ecommerce.Vista-WebAssembly\\Ecommerce.Vista-WebAssembly.csproj|solutionrelative:ecommerce.vista-webassembly\\pages\\admin\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF39F8B-1A27-4F09-A12B-348C122473A7}|Ecommerce.Vista-WebAssembly\\Ecommerce.Vista-WebAssembly.csproj|c:\\c#\\proyectoecommerce\\ecommerce\\ecommerce.vista-webassembly\\pages\\admin\\categoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF39F8B-1A27-4F09-A12B-348C122473A7}|Ecommerce.Vista-WebAssembly\\Ecommerce.Vista-WebAssembly.csproj|solutionrelative:ecommerce.vista-webassembly\\pages\\admin\\categoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +39,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categorias.razor",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "RelativeDocumentMoniker": "Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "RelativeToolTip": "Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categorias.razor",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T23:23:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.razor",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "RelativeDocumentMoniker": "Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "RelativeToolTip": "Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Usuarios.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T23:23:08.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.razor",
+              "DocumentMoniker": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "RelativeDocumentMoniker": "Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "ToolTip": "C:\\C#\\ProyectoEcommerce\\Ecommerce\\Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "RelativeToolTip": "Ecommerce.Vista-WebAssembly\\Pages\\Admin\\Categoria.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T21:58:35.08Z",
+              "EditorCaption": ""
             }
           ]
         }

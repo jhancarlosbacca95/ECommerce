@@ -1,0 +1,132 @@
+﻿@inject ICategoriaServicio categoriaServicio
+@inject IToastService toastService
+@inject SweetAlertService Swal
+
+@page "/categorias"
+
+<div class="row justify-content-center mt-3">
+   <!--Boton para crear una nueva categoria-->
+    <div class="col-sm-6 col-md-4 col-xl-3 mb-4">
+        <div class="d-grid gap-1 col-12 mx-auto">
+            <a class="btn btn-primary" href="/categoria">Nueva Categoria</a>
+        </div>
+    </div>
+
+    <!-- Campo de busqueda de categoria-->
+    <div class="col-sm-6 col-md-8 col-xl-9 mb-4">
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Buscar categoria..." @bind-value="buscar">
+            <button class="btn btn-outline-secondary" type="button" @onclick="(async()=>await ObtenerCategoria(buscar.ToString()))">
+                  <i class="oi oi-magnifying-glass"></i>
+            </button>
+        </div>
+    </div>
+
+</div>
+
+<!-- contenedor para mostrar la lista de categorias -->
+<div class="row gx-4 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4 justify-content-start mt-2 ">
+    <!--verifica si la lista de categorias no es nula-->
+    @if (lista != null)
+    {
+        <!-- itera sobre cada elemento de la lista de categorias-->
+        @foreach (var item in lista)
+        {
+            <!--tarjeta que representa una categoria -->
+            <div class="col mb-5">
+                <div class="card h-100">
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            <!--icono de carpeta-->
+                            <div class="text-center">
+                                <i class="oi oi-folder" style="font-size:50px"></i>
+                            </div>
+                            <!--Nombre de la categoria-->
+                            <div class="text-start">
+                                <p class="m-1"><b>Nombre: </b>@item.Nombre</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-transparent">
+                        <div class="row justify-content-between">
+                            <!--boton para editar la categoria-->
+                            <a class="col-5 btn btn-sm btn-outline-primary mt-auto" href="/categoria/@item.IdCategoria">
+                                <i class="oi oi-pencil fs-5"></i>    
+                            </a>
+                            <button class="col-5 btn btn-sm btn-outline-danger mt-auto" type="button" @onclick="(async () => await Eliminar(item))">
+                                <i class="oi oi-trash fs-5"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+
+        }
+    }else{
+        <!-- Muestra un spinner mientra se cargan las categorias-->
+        <div class="spinner-border" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    }
+</div>
+
+
+
+
+@code {
+    private List<CategoriaDTO>? lista = null;
+    private string buscar = "";
+
+    private async Task ObtenerCategoria(string Valor = "")
+    {
+        var response = await categoriaServicio.Lista(Valor);
+        if (response.Resultado!.Count == 0)
+        {
+            toastService.ShowInfo($"{buscar} : Was not found.");
+            return;
+        }
+        if (response.EsCorrecto)
+        {
+            lista = (List<CategoriaDTO>)response.Resultado!;
+        }
+        else
+        {
+            lista = new List<CategoriaDTO>();
+        }
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        await ObtenerCategoria();
+    }
+
+    private async Task Eliminar(CategoriaDTO modelo)
+    {
+        SweetAlertResult result = await Swal.FireAsync(new SweetAlertOptions
+        {
+            Title="Estas seguro?",
+            Text = $"Eliminar categoria: {modelo.Nombre}",
+            Icon = SweetAlertIcon.Warning,
+            ShowCancelButton = true,
+            ConfirmButtonText = "Si, eliminar",
+            CancelButtonText = "No, volver"
+        });
+
+        if (result.IsConfirmed)
+        {
+            var response = await categoriaServicio.Eliminar(modelo.IdCategoria);
+            if (response.EsCorrecto)
+            {
+                await ObtenerCategoria();
+                toastService.ShowSuccess("Categori eliminada");
+            }
+            else
+            {
+                
+            }
+        }
+
+
+    }
+
+}
