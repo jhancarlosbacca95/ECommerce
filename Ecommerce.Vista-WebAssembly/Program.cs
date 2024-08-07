@@ -10,6 +10,10 @@ using Blazored.Toast;
 
 using CurrieTechnologies.Razor.SweetAlert2;
 
+using Microsoft.AspNetCore.Components.Authorization;
+using Ecommerce.Vista.Extensiones;
+
+
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
@@ -27,5 +31,8 @@ builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
 builder.Services.AddScoped<IVentaServicio, VentaServicio>();
 
 builder.Services.AddSweetAlert2();
+
+builder.Services.AddAuthorizationCore();
+builder.Services.AddScoped<AuthenticationStateProvider,AutenticacionExtension>();
 
 await builder.Build().RunAsync();

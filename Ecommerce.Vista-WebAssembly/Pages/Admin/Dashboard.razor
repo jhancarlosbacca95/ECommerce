@@ -1,7 +1,126 @@
 ﻿@page "/dashboard"
 
-<h3>Dashboard</h3>
+@inject IDashboardServicio dashboardService
+
+@attribute [Authorize(Roles = "Administrador")];
+
+
+
+
+
+<div class="row mt-4">
+    <!-- Crea una fila con un margen superior de 4 unidades -->
+
+    <div class="col-sm-6 mb-3">
+        <!-- Define una columna que ocupa 6 espacios en pantallas pequeñas con un margen inferior de 3 unidades -->
+        <div class="card border-5 border-bottom-0 border-top-0 border-end-0 shadow border-primary p-4">
+            <!-- Crea una tarjeta con borde izquierdo de 5 unidades de ancho, sombra y borde izquierdo de color primario -->
+            <div class="row align-items-center">
+                <!-- Crea una fila dentro de la tarjeta y alinea verticalmente sus elementos al centro -->
+                <div class="col ms-2">
+                    <!-- Define una columna con un margen izquierdo de 2 unidades -->
+                    <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                        <!-- Aplica estilos al texto -->
+                        Total Ingresos <!-- Texto del título -->
+                    </div>
+                    <div class="h5 mb-0 fw-bold text-muted">
+                        <!-- Aplica estilos al texto -->
+                        $. @dashboard.TotalIngresos <!-- Dato dinámico -->
+                    </div>
+                </div>
+                <div class="col-auto">
+                    <!-- Crea una columna con un tamaño automático -->
+                    <i class="oi oi-dollar text-secondary" style="font-size:50px"></i> <!-- Define un icono con color secundario y tamaño de 50px -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 mb-3">
+        <!-- Define una columna que ocupa 6 espacios en pantallas pequeñas con un margen inferior de 3 unidades -->
+        <div class="card border-5 border-bottom-0 border-top-0 border-end-0 shadow border-success p-4">
+            <!-- Crea una tarjeta con borde izquierdo de 5 unidades de ancho, sombra y borde izquierdo de color éxito -->
+            <div class="row align-items-center">
+                <!-- Crea una fila dentro de la tarjeta y alinea verticalmente sus elementos al centro -->
+                <div class="col ms-2">
+                    <!-- Define una columna con un margen izquierdo de 2 unidades -->
+                    <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                        <!-- Aplica estilos al texto -->
+                        Total Ventas <!-- Texto del título -->
+                    </div>
+                    <div class="h5 mb-0 fw-bold text-muted">
+                        <!-- Aplica estilos al texto -->
+                        @dashboard.TotalVentas <!-- Dato dinámico -->
+                    </div>
+                </div>
+                <div class="col-auto">
+                    <!-- Crea una columna con un tamaño automático -->
+                    <i class="oi oi-tags text-secondary" style="font-size:50px"></i> <!-- Define un icono con color secundario y tamaño de 50px -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 mb-3">
+        <!-- Define una columna que ocupa 6 espacios en pantallas pequeñas con un margen inferior de 3 unidades -->
+        <div class="card border-5 border-bottom-0 border-top-0 border-end-0 shadow border-warning p-4">
+            <!-- Crea una tarjeta con borde izquierdo de 5 unidades de ancho, sombra y borde izquierdo de color advertencia -->
+            <div class="row align-items-center">
+                <!-- Crea una fila dentro de la tarjeta y alinea verticalmente sus elementos al centro -->
+                <div class="col ms-2">
+                    <!-- Define una columna con un margen izquierdo de 2 unidades -->
+                    <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                        <!-- Aplica estilos al texto -->
+                        Total Clientes <!-- Texto del título -->
+                    </div>
+                    <div class="h5 mb-0 fw-bold text-muted">
+                        <!-- Aplica estilos al texto -->
+                        @dashboard.TotalClientes <!-- Dato dinámico -->
+                    </div>
+                </div>
+                <div class="col-auto">
+                    <!-- Crea una columna con un tamaño automático -->
+                    <i class="oi oi-people text-secondary" style="font-size:50px"></i> <!-- Define un icono con color secundario y tamaño de 50px -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 mb-3">
+        <!-- Define una columna que ocupa 6 espacios en pantallas pequeñas con un margen inferior de 3 unidades -->
+        <div class="card border-5 border-bottom-0 border-top-0 border-end-0 shadow border-info p-4">
+            <!-- Crea una tarjeta con borde izquierdo de 5 unidades de ancho, sombra y borde izquierdo de color informativo -->
+            <div class="row align-items-center">
+                <!-- Crea una fila dentro de la tarjeta y alinea verticalmente sus elementos al centro -->
+                <div class="col ms-2">
+                    <!-- Define una columna con un margen izquierdo de 2 unidades -->
+                    <div class="text-xs font-weight-bold text-info text-uppercase mb-1">
+                        <!-- Aplica estilos al texto -->
+                        Total Productos <!-- Texto del título -->
+                    </div>
+                    <div class="h5 mb-0 fw-bold text-muted">
+                        <!-- Aplica estilos al texto -->
+                        @dashboard.TotalProductos <!-- Dato dinámico -->
+                    </div>
+                </div>
+                <div class="col-auto">
+                    <!-- Crea una columna con un tamaño automático -->
+                    <i class="oi oi-box text-secondary" style="font-size:50px"></i> <!-- Define un icono con color secundario y tamaño de 50px -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
 
 @code {
-
+    private DashboardDTO dashboard = new DashboardDTO();
+    protected override async Task OnInitializedAsync()
+    {
+        var response = await dashboardService.Resumen();
+        if (response.EsCorrecto)
+        {
+            dashboard = (DashboardDTO)response.Resultado!;
+        }
+    }
 }
